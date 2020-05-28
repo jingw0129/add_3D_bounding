@@ -1,0 +1,7 @@
+kitti_path: ./Kitti/
+epochs: 8
+bins: 2
+w: 1
+alpha: 1
+batches: 8
+
